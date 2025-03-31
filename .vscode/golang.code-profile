@@ -1,0 +1,16 @@
+{
+    "name":"golang",
+    "extensions": [
+        {
+            "identifier": {
+                "id": "ngtystr.ppm-pgm-viewer-for-vscode",
+                "uuid": "c38c8534-8116-4851-864f-197988144816"
+            },
+            "displayName": "PBM/PPM/PGM Viewer for Visual Studio Code",
+            "applicationScoped": true
+        }
+    ],
+    "globalState": {
+        "storage": {}
+    }
+}
