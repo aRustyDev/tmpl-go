@@ -1,3 +1,4 @@
+// https://code.visualstudio.com/docs/configure/profiles
 {
     "name":"golang",
     "extensions": [
